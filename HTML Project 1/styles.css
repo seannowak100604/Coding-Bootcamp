@@ -1,0 +1,13 @@
+body{
+    background-color: purple;
+    color: white;
+}
+
+.pic{
+    border-radius: 100%;
+    width: 150px;
+}
+
+.link{
+    color: white;
+}
